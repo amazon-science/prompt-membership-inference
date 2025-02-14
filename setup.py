@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='SystemPromptMIA',
+    name='prompt-membership-inference',
     version='0.0.10',
     packages=find_packages(),
     url='',

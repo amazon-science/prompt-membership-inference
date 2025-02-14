@@ -16,7 +16,7 @@ To use Prompt Detective, install the package using pip. Make sure you use Python
 
 
 ```
-cd SystemPromptMIA
+cd prompt-membership-inference
 pip install -e .
 ```
 
@@ -62,15 +62,13 @@ If you use PromptDetective in your research, please cite our work:
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)   
 
 ```bibtex
-@article{your_citation_key,
-  author    = {Author Name and Another Author},
-  title     = {Title of Your Paper},
-  journal   = {Journal Name},
-  year      = {YYYY},
-  volume    = {XX},
-  number    = {X},
-  pages     = {XX-XX},
-  doi       = {10.XXXX/zenodo.XXXXX}
+@article{wu2021adversarial,
+  title={Adversarial neuron pruning purifies backdoored deep models},
+  author={Wu, Dongxian and Wang, Yisen},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  pages={16913--16925},
+  year={2021}
 }
 ```
 
