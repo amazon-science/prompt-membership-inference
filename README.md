@@ -1,7 +1,7 @@
 # Has My System Prompt Been Used? Large Language Model Prompt Membership Inference
 
 <p align="center">
-    <a href="https://arxiv.org/pdf/2406.07320"><img src="https://img.shields.io/badge/paper-arXiv-red" alt="Paper"></a>
+    <a href="https://arxiv.org/abs/2502.09974"><img src="https://img.shields.io/badge/paper-arXiv-red" alt="Paper"></a>
         <img src="https://img.shields.io/github/license/amazon-science/ssepy" alt="Apache-2.0">
 </p>
 
@@ -9,7 +9,7 @@ We introduce Prompt Detective, a method for verifying if a particular system pro
 Prompt Detective works by comparing two groups of text generations based on their semantic embeddings, it performs a permutation 
 test to assess the statistical significance of the difference between the mean embeddings of the two groups.
 
-See our paper [here](https://arxiv.org/pdf/2406.07320) for the technical details.
+See our paper [here](https://arxiv.org/abs/2502.09974) for the technical details.
 
 ## Getting Started
 To use Prompt Detective, install the package using pip. Make sure you use Python version 3.9.
@@ -62,13 +62,11 @@ If you use PromptDetective in your research, please cite our work:
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)   
 
 ```bibtex
-@article{wu2021adversarial,
-  title={Adversarial neuron pruning purifies backdoored deep models},
-  author={Wu, Dongxian and Wang, Yisen},
-  journal={Advances in Neural Information Processing Systems},
-  volume={34},
-  pages={16913--16925},
-  year={2021}
+@article{levin2024has,
+  title={Has My System Prompt Been Used? Large Language Model Prompt Membership Inference},
+  author={Levin, Roman and Cherepanova, Valeriia and Hans, Abhimanyu and Schwarzschild, Avi and Goldstein, Tom},
+  journal={arXiv preprint arXiv:2502.09974},
+  year={2025}
 }
 ```
 
