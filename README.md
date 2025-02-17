@@ -59,8 +59,6 @@ when generations come from the same language model.
 
 If you use PromptDetective in your research, please cite our work:
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)   
-
 ```bibtex
 @article{levin2024has,
   title={Has My System Prompt Been Used? Large Language Model Prompt Membership Inference},
