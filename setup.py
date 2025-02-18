@@ -5,7 +5,7 @@ setup(
     version='0.0.10',
     packages=find_packages(),
     url='',
-    license=open("LICENSE.txt", "r", encoding="utf-8").read(),
+    license=open("LICENSE", "r", encoding="utf-8").read(),
     author='Authors of "Has My System Prompt Been Used? Large Language Model Prompt Membership Inference"',
     description='A method for verifying if a particular system prompt has been used by a language model.',
     long_description=open("README.md", "r", encoding="utf-8").read(),
